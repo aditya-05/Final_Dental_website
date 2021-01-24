@@ -1,0 +1,86 @@
+*{
+	box-sizing: border-box;
+	list-style: none;
+}
+.navbar,#footer{
+	background-color: #ffc862	;
+}
+#navbarSupportedContent,.navbar-toggler
+{
+	margin-right: 20px;
+}
+#Hospital_Logo
+{
+	width:130px;
+	height:100px;
+	margin-left: 16px
+}
+.nav-item{
+	font-size: 20px;
+	font-weight: bold;
+}
+.nav-link{
+	color:#008000;
+}
+/*------------------------end of navbar-----------------*/
+/*-----------------------images section-----------------*/
+/*@media (min-width: 992px)*/
+/*{*/
+	img{
+	width:auto;
+	/*height: auto;*/
+    }
+/*}*/
+/*------------------end of images section--------------------------------*/
+#need_pedo h1{
+	text-align: center;
+	background-color:#ffc862;
+	margin-bottom: 0px;
+}
+#need_pedo div{
+	color:#00008B;
+	font-size: 20px;
+	background-color:#98FB98;
+	padding:15px;
+}
+/*-------------end of need of pedo ---------------------------*/
+#services h1{
+	text-align: center;
+	background-color:#ffc862;
+	margin-bottom:0px; 
+}
+#services .row{
+	/*padding:0px;*/
+	margin-right:0px;
+	margin-left: 0px;
+}
+#services div>div{
+	text-align: center;
+	background-color:#98FB98;
+    color:#00008B;
+    font-size: 20px;
+    border:1px solid white;
+    padding: 1.5px 5px 1.5px 5px;
+    /*border-radius: 15px;*/
+    /*margin: 1.5px 0px 1.5px 0px;*/
+}
+/*------------------------------------------------end of services-----------------------*/
+#know_your_doc h1{
+	text-align: center;
+	background-color:#ffc862; 
+	margin-bottom: 0px
+}
+#know_your_doc div{
+	font-size: 20px;
+	background-color:#98FB98;
+	color:#00008B;
+	padding: 15px;
+}
+/******************************footer************************************/
+#footer div>div>div{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#footer{
+	padding-bottom: 10px;
+}
