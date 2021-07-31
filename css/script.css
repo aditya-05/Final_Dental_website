@@ -18,9 +18,10 @@
 .nav-item{
 	font-size: 20px;
 	font-weight: bold;
+	color:#FFFFFF;
 }
 .nav-link{
-	color:#FFFFFF;
+	color:#008000;
 }
 /*------------------------end of navbar-----------------*/
 /*-----------------------images section-----------------*/
